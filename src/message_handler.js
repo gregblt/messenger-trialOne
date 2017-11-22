@@ -24,7 +24,8 @@ cloudant.db.list(function(err, allDbs) {
 	console.log('All my databases: %s', allDbs.join(', '))
 });
 
-var users = cloudant.db.use('trialone_users')
+USER_DB='trialone_users'
+var users = cloudant.db.use(USER_DB)
 
 function firstEntity(nlp, name) {
 	return nlp && nlp.entities && nlp.entities && nlp.entities[name] && nlp.entities[name][0];
