@@ -1,0 +1,28 @@
+{
+  "name": "secretbots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.15.0",
+    "cloudant": "^1.10.0",
+    "crypto": "^1.0.1",
+    "curlrequest": "^1.0.1",
+    "express": "^4.13.4",
+    "nano": "^6.4.2",
+    "node-fetch": "^1.7.3",
+    "node-wit": "^4.3.0",
+    "q": "^1.5.1",
+    "request": "^2.71.0",
+    "sag": "^0.4.0",
+    "save": "^2.3.1"
+  }
+}

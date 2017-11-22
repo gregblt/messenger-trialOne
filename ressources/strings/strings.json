@@ -1,0 +1,26 @@
+{
+	"fr" : {
+		"greeting" : "Bonjour à vous",
+		"you_are_welcome" : "Pas de problème",
+		"feelings" : "Comme un lundi. Frais dans la matinée, du soleil dans l'aprés midi.",
+		"bye" : "A la prochaine",
+		"work" : "Je suis un robot à plein temps.",
+		"what?" : "Je ne suis qu'un robot, je ne comprend pas ceci...",
+		"calm" : "Calmez-vous s.v.p.!",
+		"duck" : "Un beau canard",
+		"change_lang" : "Votre langue est maintenant français",
+		"no_change_lang" : "Nous parlons déjà en français, non?"
+	},
+	"en" : {
+		"greeting" : "Hello",
+		"you_are_welcome" : "Sure!",
+		"feelings" : "I'm fine. Comme un lundi. Frais dans la matinée, du soleil dans l'aprés midi.",
+		"bye" : "See you soon",
+		"work" : "I'm just a robot.",
+		"what?" : "I'm a robot, I don't understand this sorry...",
+		"calm" : "Fuck you!",
+		"duck" : "A beautiful duck",
+		"change_lang" : "Your language in now english",
+		"no_change_lang" : "WTF bro ?!"
+	}
+}
